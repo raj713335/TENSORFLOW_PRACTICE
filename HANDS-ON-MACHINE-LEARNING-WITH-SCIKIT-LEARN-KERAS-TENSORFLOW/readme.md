@@ -4,7 +4,7 @@ This repository is made to act as a reference for me and others after reading an
 
 
 <p align="center">
-    <img src="DEMO/book_cover.png", width="1000">
+    <img src="DEMO/book_cover.png", width="800">
     <br>
     <sup><a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/" target="_blank"><strong>Hands-On Machine Learning with Scikit-Learn and TensorFlow</strong></a></sup>
 </p>
